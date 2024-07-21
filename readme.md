@@ -24,7 +24,7 @@ Open the cloned directory in your preferred code editor.
 
 **View the Portfolio**:
 
-Open the ```index.html``` file in a web browser to see your portfolio website in all its glory ✨!
+Open the ```index.html``` file in a web browser to see portfolio website in all its glory ✨!
 
 ## Customization
 Feel free to customize the HTML, CSS, and JavaScript files to personalize your portfolio website. You can modify the content, layout, colors, fonts (sizes and styles!), and add any interactive features you desire to make it truly yours (think adding a fun "Contact Me" button ).
