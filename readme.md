@@ -14,7 +14,7 @@ This repository contains the source code for my personal portfolio website, buil
 Use Git to clone this repository to your local machine. Open your terminal or command prompt and navigate to your desired directory. Then, run the following command:
 ```
 Bash
-git clone https://github.com/<your-username>/personal-portfolio.git
+git clone https://github.com/<your-username>/My-Portofilo.git
 ```
 Replace <your-username> with your actual GitHub username.
 
